@@ -13,13 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\Chapter2">
+    <Filter Include="源文件\NewFilter1">
       <UniqueIdentifier>{812d0fce-05be-44c3-99fe-e91129ca0a34}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.c">
-      <Filter>源文件\Chapter2</Filter>
+      <Filter>源文件\NewFilter1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
