@@ -19,6 +19,9 @@
     <Filter Include="源文件\Util">
       <UniqueIdentifier>{1f04df55-9199-4ad6-9442-6329aee24210}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter3">
+      <UniqueIdentifier>{485e56a6-fb0d-4ab2-8afa-bd4a02666be8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main2.c">
@@ -33,5 +36,24 @@
     <ClCompile Include="util.c">
       <Filter>源文件\Util</Filter>
     </ClCompile>
+    <ClCompile Include="main3.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-2.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C_Primer_Plus.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
