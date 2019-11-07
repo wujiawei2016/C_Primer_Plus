@@ -16,6 +16,9 @@
     <Filter Include="源文件\Chapter2">
       <UniqueIdentifier>{812d0fce-05be-44c3-99fe-e91129ca0a34}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Util">
+      <UniqueIdentifier>{1f04df55-9199-4ad6-9442-6329aee24210}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main2.c">
@@ -23,6 +26,12 @@
     </ClCompile>
     <ClCompile Include="main.c">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice1.c">
+      <Filter>源文件\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="util.c">
+      <Filter>源文件\Util</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
