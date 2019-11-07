@@ -42,19 +42,22 @@
     <ClCompile Include="main3.c">
       <Filter>源文件\Chapter3</Filter>
     </ClCompile>
-    <ClCompile Include="pratice_3-1.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3-2.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
     <ClCompile Include="pratice_simple.c">
       <Filter>源文件\simple</Filter>
     </ClCompile>
     <ClCompile Include="main_simple.c">
       <Filter>源文件\simple</Filter>
     </ClCompile>
-    <ClCompile Include="pratice_3-3.c">
+    <ClCompile Include="pratice_3-1-3.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1-2.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1-1.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1-4.c">
       <Filter>源文件\Chapter3</Filter>
     </ClCompile>
   </ItemGroup>

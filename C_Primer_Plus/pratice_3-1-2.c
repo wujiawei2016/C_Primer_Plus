@@ -1,6 +1,6 @@
 #include <stdio.h>
 //观察各个数据类型溢出情况:short类型
-int pratice3_2main() {
+int pratice3_1_2_main() {
 	printf("* * * * * * * * * * * * * * * *\n");
 	printf("this is pratice3_2\n");
 	printf("* * * * * * * * * * * * * * * *\n");
