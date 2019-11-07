@@ -126,9 +126,12 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="main2.c" />
     <ClCompile Include="main3.c" />
+    <ClCompile Include="main_simple.c" />
     <ClCompile Include="pratice1.c" />
     <ClCompile Include="pratice_3-1.c" />
     <ClCompile Include="pratice_3-2.c" />
+    <ClCompile Include="pratice_3-3.c" />
+    <ClCompile Include="pratice_simple.c" />
     <ClCompile Include="util.c" />
   </ItemGroup>
   <ItemGroup>
