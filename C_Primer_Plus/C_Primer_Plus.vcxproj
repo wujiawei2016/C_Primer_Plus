@@ -133,7 +133,6 @@
     <ClCompile Include="pratice_3-1-1.c" />
     <ClCompile Include="pratice_3-1-2.c" />
     <ClCompile Include="pratice_3-1-3.c" />
-    <ClCompile Include="pratice_3_10.c" />
     <ClCompile Include="pratice_3_2.c" />
     <ClCompile Include="pratice_3_3.c" />
     <ClCompile Include="pratice_3_4.c" />
@@ -141,7 +140,6 @@
     <ClCompile Include="pratice_3_6.c" />
     <ClCompile Include="pratice_3_7.c" />
     <ClCompile Include="pratice_3_8.c" />
-    <ClCompile Include="pratice_3_9.c" />
     <ClCompile Include="pratice_simple.c" />
     <ClCompile Include="util.c" />
   </ItemGroup>

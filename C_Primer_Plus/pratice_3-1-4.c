@@ -18,13 +18,13 @@ int pratice_3_1_4_main() {
 
 	//double num2= 1.234567890123456e18;// 输出结果:
 	double num2= 1e22+10000000000;// 输出结果:
-	printf("sizeof float %zd - 实际输出值:%f\n", sizeof(double), num2);
+	printf("sizeof double %zd - 实际输出值:%f\n", sizeof(double), num2);
 	printf("* * * * * * * * * * * * * * * *\n");
 
 	/* * * * * * * * * 结论 * * * * * * * * *
 	float:目前观察到的现象是在10的7次方内 且有效数字不超过6个 能保持精度
 	double:有效数字为十六个,10的18次方内能保持精度
-	未完待续-------浮点型数据类型的原理
+	未完待续-------浮点型数据类型的原理以及其精度
 	* * * * * * * * * 结论 * * * * * * * * */
 	return 0;
 }
