@@ -8,21 +8,23 @@ int pratice_3_1_4_main() {
 	//float类型: 4个字节 32个二进制位
 	//float 其中第一位为符号位 内存中
 
-	float num1 = -9.876543e7;// 输出结果:2147483646
+	//float num1 = 0.1234567e7;// 输出结果:
+	float num1 = 1e30;// 输出结果:
 	printf("sizeof float %zd - 实际输出值:%f\n", sizeof(float), num1);
 	printf("* * * * * * * * * * * * * * * *\n");
 	
 
-	//double类型: 4个字节 32个二进制位
+	//double类型: 8个字节 32个二进制位
 
-	double num2=10000000000000000000;// 输出结果:2147483646
-	printf("sizeof float %zd - 实际输出值:%f\n", sizeof(float), num2);
+	//double num2= 1.234567890123456e18;// 输出结果:
+	double num2= 1e22+10000000000;// 输出结果:
+	printf("sizeof float %zd - 实际输出值:%f\n", sizeof(double), num2);
 	printf("* * * * * * * * * * * * * * * *\n");
 
 	/* * * * * * * * * 结论 * * * * * * * * *
-	目前观察到的现象是在10的7次方内 且有效数字不超过7个 能保持精度
-	在这里double和float都是四个字节,但是明显double能正常输出的范围更大
-	未完待续-------
+	float:目前观察到的现象是在10的7次方内 且有效数字不超过6个 能保持精度
+	double:有效数字为十六个,10的18次方内能保持精度
+	未完待续-------浮点型数据类型的原理
 	* * * * * * * * * 结论 * * * * * * * * */
 	return 0;
 }

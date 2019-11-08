@@ -4,6 +4,7 @@ int main3() {
 	//pratice3_1_1_main();
 	//pratice3_1_2_main();
 	//pratice_3_1_3_main();
-	pratice_3_1_4_main();
+	//pratice_3_1_4_main();
+	pratice_3_2_main();
 	return 0;
 }

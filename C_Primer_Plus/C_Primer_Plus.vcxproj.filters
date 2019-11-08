@@ -60,6 +60,33 @@
     <ClCompile Include="pratice_3-1-4.c">
       <Filter>源文件\Chapter3</Filter>
     </ClCompile>
+    <ClCompile Include="pratice_3_2.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_3.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_4.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_5.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_6.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_7.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_8.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_9.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_10.c">
+      <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
