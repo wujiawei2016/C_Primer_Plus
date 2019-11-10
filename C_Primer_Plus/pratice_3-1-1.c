@@ -1,5 +1,9 @@
 ﻿#include <stdio.h>
 //观察各个数据类型溢出情况:int 类型 
+//这里理解有误,上溢 （overflow）下溢 （underflow）指浮点型,超出浮点型最大值时叫做上溢（overflow）,
+//失去精度的值叫（subnormal）
+//在浮点型做除法时比如(0.1234E-10）除以10，得到的结果是0.0123E-10 叫下溢（overflow）
+//这里的上溢下溢应该是超出最大值范围和最小值范围
 int pratice3_1_1_main() {
 	printf("* * * * * * * * * * * * * * * *\n");
 	printf("this is pratice3_1\n");

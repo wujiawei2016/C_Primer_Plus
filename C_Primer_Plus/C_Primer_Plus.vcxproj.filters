@@ -28,6 +28,24 @@
     <Filter Include="源文件\Chapter4">
       <UniqueIdentifier>{7703e6c9-8304-4eb7-8597-1c4ffac6facf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter2\Pratice">
+      <UniqueIdentifier>{e6a7c56e-500d-4a9c-bef7-5bcf70709791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter2\Example">
+      <UniqueIdentifier>{4d6e18e9-9c59-48a1-85a4-6a91588fa736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter3\Pratice">
+      <UniqueIdentifier>{14f71e6b-23de-4b4b-9f1b-7088237b9aeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter4\Pratice">
+      <UniqueIdentifier>{3c00a3da-fc87-4591-89e8-d224880d365a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter3\Example">
+      <UniqueIdentifier>{501b283e-ba8e-48a9-a396-24419a817444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter4\Example">
+      <UniqueIdentifier>{705508e3-05fb-479c-be20-d1ac57b2b51d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main2.c">
@@ -35,9 +53,6 @@
     </ClCompile>
     <ClCompile Include="main.c">
       <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice1.c">
-      <Filter>源文件\Chapter2</Filter>
     </ClCompile>
     <ClCompile Include="util.c">
       <Filter>源文件\Util</Filter>
@@ -51,44 +66,62 @@
     <ClCompile Include="main_simple.c">
       <Filter>源文件\simple</Filter>
     </ClCompile>
-    <ClCompile Include="pratice_3-1-3.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3-1-2.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3-1-1.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3-1-4.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3_2.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3_3.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3_4.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3_5.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3_6.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3_7.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
-    <ClCompile Include="pratice_3_8.c">
-      <Filter>源文件\Chapter3</Filter>
-    </ClCompile>
     <ClCompile Include="main4.c">
       <Filter>源文件\Chapter4</Filter>
     </ClCompile>
+    <ClCompile Include="pratice1.c">
+      <Filter>源文件\Chapter2\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_2.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_3.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_4.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_5.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_6.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_7.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3_8.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1-1.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1-2.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1-3.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_3-1-4.c">
+      <Filter>源文件\Chapter3\Pratice</Filter>
+    </ClCompile>
     <ClCompile Include="pratice_4-1.c">
-      <Filter>源文件\Chapter4</Filter>
+      <Filter>源文件\Chapter4\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="example_2-1.c">
+      <Filter>源文件\Chapter2\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_simple.c">
+      <Filter>源文件\simple</Filter>
+    </ClCompile>
+    <ClCompile Include="example_3_1.c">
+      <Filter>源文件\Chapter3\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_3_2.c">
+      <Filter>源文件\Chapter3\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_4_1.c">
+      <Filter>源文件\Chapter4\Example</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

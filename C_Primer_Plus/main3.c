@@ -18,6 +18,8 @@ int main3() {
 	//pratice_3_5_main();
 	//pratice_3_6_main();
 	//pratice_3_7_main();
-	pratice_3_8_main();
+	//pratice_3_8_main();
+	//example_3_1_main();
+	example_3_2_main();
 	return 0;
 }
