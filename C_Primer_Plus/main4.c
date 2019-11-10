@@ -1,8 +1,6 @@
 #include <stdio.h>
-int main() {
+int main4() {
 	printf("this is main\n");
-	//main2();
-	//main3();
-	main4();
+	pratice_4_1_main();
 	return 0;
 }

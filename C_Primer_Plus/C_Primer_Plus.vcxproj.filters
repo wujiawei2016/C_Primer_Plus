@@ -25,6 +25,9 @@
     <Filter Include="源文件\simple">
       <UniqueIdentifier>{b93d2053-18a8-4af4-aba2-ea71ec6e5377}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter4">
+      <UniqueIdentifier>{7703e6c9-8304-4eb7-8597-1c4ffac6facf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main2.c">
@@ -80,6 +83,12 @@
     </ClCompile>
     <ClCompile Include="pratice_3_8.c">
       <Filter>源文件\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="main4.c">
+      <Filter>源文件\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_4-1.c">
+      <Filter>源文件\Chapter4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
