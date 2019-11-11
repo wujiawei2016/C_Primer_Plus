@@ -32,7 +32,19 @@ int example_4_1_main() {
 	printf("this is example_4_1 \7\n");
 	printf("* * * * * * * * * * * * * * * *\n");
 	char string[100] = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz";
-
+	float weight, volume;
+	int size, letters;
+	char name[40];// name是一个可容纳40个字符的数组
+	printf("Hi! What's your first name?\n");
+	scanf("%s", name);
+	printf("%s, what's your weight in pounds?\n", name);
+	scanf("%f", &weight);
+	size = sizeof name;
+	letters = strlen(name);
+	volume = weight / DENSITY;
+	printf("Well, %s, your volume is %2.2f cubic feet.\n",name, volume);
+	printf("Also, your first name has %d letters,\n",letters);
+	printf("and we have %d bytes to store it.\n", size);
 
 	/* * * * * * * * * 结论 * * * * * * * * *
 
