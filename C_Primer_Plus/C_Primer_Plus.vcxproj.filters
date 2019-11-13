@@ -129,6 +129,18 @@
     <ClCompile Include="example_4_3.c">
       <Filter>源文件\Chapter4\Example</Filter>
     </ClCompile>
+    <ClCompile Include="example_4_4.c">
+      <Filter>源文件\Chapter4\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_4_5.c">
+      <Filter>源文件\Chapter4\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_4_6.c">
+      <Filter>源文件\Chapter4\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_4_7.c.c">
+      <Filter>源文件\Chapter4\Example</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

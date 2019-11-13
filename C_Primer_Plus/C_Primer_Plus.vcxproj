@@ -130,6 +130,10 @@
     <ClCompile Include="example_4_1.c" />
     <ClCompile Include="example_4_2.c" />
     <ClCompile Include="example_4_3.c" />
+    <ClCompile Include="example_4_4.c" />
+    <ClCompile Include="example_4_5.c" />
+    <ClCompile Include="example_4_6.c" />
+    <ClCompile Include="example_4_7.c.c" />
     <ClCompile Include="example_simple.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="main2.c" />

@@ -15,10 +15,14 @@
 
 */
 int main4() {
-	printf("this is main\n");
+	printf("this is main4\n");
 	//example_4_1_main();
 	//example_4_2_main();
-	example_4_3_main();
+	//example_4_3_main();
+	//example_4_4_main();
+	//example_4_5_main();
+	//example_4_6_main();
+	example_4_7_main();
 	//pratice_4_1_main();
 	return 0;
 }
