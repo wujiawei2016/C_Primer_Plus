@@ -22,7 +22,9 @@ int main4() {
 	//example_4_4_main();
 	//example_4_5_main();
 	//example_4_6_main();
-	example_4_7_main();
+	//example_4_7_main();
 	//pratice_4_1_main();
+	//pratice_4_2_main();
+	pratice_4_3_main();
 	return 0;
 }

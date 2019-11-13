@@ -105,9 +105,6 @@
     <ClCompile Include="pratice_3-1-4.c">
       <Filter>源文件\Chapter3\Pratice</Filter>
     </ClCompile>
-    <ClCompile Include="pratice_4-1.c">
-      <Filter>源文件\Chapter4\Pratice</Filter>
-    </ClCompile>
     <ClCompile Include="example_2-1.c">
       <Filter>源文件\Chapter2\Example</Filter>
     </ClCompile>
@@ -138,8 +135,20 @@
     <ClCompile Include="example_4_6.c">
       <Filter>源文件\Chapter4\Example</Filter>
     </ClCompile>
-    <ClCompile Include="example_4_7.c.c">
+    <ClCompile Include="example_4_7.c">
       <Filter>源文件\Chapter4\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_4_2.c">
+      <Filter>源文件\Chapter4\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_4_1.c">
+      <Filter>源文件\Chapter4\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_4_3.c">
+      <Filter>源文件\Chapter4\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_4_4.c">
+      <Filter>源文件\Chapter4\Pratice</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
