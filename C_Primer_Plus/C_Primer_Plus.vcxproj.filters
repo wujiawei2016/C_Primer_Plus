@@ -165,6 +165,33 @@
     <ClCompile Include="pratice_4_4.c">
       <Filter>源文件\Chapter4\Pratice</Filter>
     </ClCompile>
+    <ClCompile Include="pratice_5_1.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_2.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_3.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_4.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_5.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_6.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_7.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_8.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_5_9.c">
+      <Filter>源文件\Chapter5\Pratice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

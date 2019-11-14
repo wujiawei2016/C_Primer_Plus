@@ -1,19 +1,18 @@
 #include <stdio.h>
 /*
-	例题:  关于别名 typedef:的用法
-
+6.修改编程练习5的程序，使其能计算整数的平方和（可以认为第1天赚
+$1、第2天赚$4、第3天赚$9，以此类推，这看起来很不错）。C没有平方函
+数，但是可以用n * n来表示n的平方。
 */
-
-int example_5_1_main() {
+#define MINUTE 60
+int pratice_5_6_main() {
 	printf("* * * * * * * * * * * * * * * *\n");
 	printf("- - - - - - - - - - - - - - - -\n");
-	printf("this is example_5_1 % c\n", 7);
+	printf("this is pratice_5_6_____________________未完成 跳过 要找例题% c\n", 7);
 	printf("- - - - - - - - - - - - - - - -\n");
 	printf("* * * * * * * * * * * * * * * *\n");
-	typedef int ii;
 
-	ii i = 3;
-	printf("%d",i);
+
 	/* * * * * * * * * 结论 * * * * * * * * *
 
 	* * * * * * * * * 结论 * * * * * * * * */
