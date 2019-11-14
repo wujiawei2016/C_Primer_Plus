@@ -6,7 +6,7 @@
 */
 int main5() {
 	printf("this is main4\n");
-	example_5_1();
+	example_5_1_main();
 	
 	return 0;
 }
