@@ -1,14 +1,6 @@
 #include <stdio.h>
-#include <ctype.h>
-#define SPACE ' '　　
+#include <ctype.h>　
 /*
-	getchar()方法 :获取键盘输入的单个字符 char 
-	和putchar()方法 输出字符
-
-	有疑问: 为何在循环内的语句不先执行,而是必须结束循环才执行
-	百度解答;printf 函数是输出内容到缓冲区 不是到显示屏 因此要等到循环结束完才会一次性输出到屏幕上
-	putchar 同理
-
 	ctype.h头文件函数如下:
 	1	int isalnum(int c)
 	该函数检查所传的字符是否是字母和数字。
@@ -40,26 +32,19 @@
 	2	int toupper(int c)
 	该函数把小写字母转换为大写字母。
 */
-int example_7_1_main() {
+int example_7_2_main() {
 	printf("* * * * * * * * * * * * * * * *\n");
 	printf("- - - - - - - - - - - - - - - -\n");
 	printf("this is pratice_7_1 % c\n", 7);
 	printf("- - - - - - - - - - - - - - - -\n");
 	printf("* * * * * * * * * * * * * * * *\n");
 	char ch;
-	ch = getchar(); 
-	while (ch != '\n'){
-		if (ch == ' '){
-			putchar(ch); 
-		}else {
-			putchar(ch + 1);
-		}
-		ch = getchar();
+	ch = getchar();
+	if (isdigit(ch)) {
+		printf("is a  num");
 	}
-	switch (getchar())
-	{
-	default:
-		break;
+	else if (isalpha(ch)) {
+		printf("is a letter ");
 	}
 
 	/* * * * * * * * * 结论 * * * * * * * * *
