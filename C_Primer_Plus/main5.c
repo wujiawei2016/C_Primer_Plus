@@ -5,7 +5,7 @@
 
 */
 int main5() {
-	printf("this is main4\n");
+	printf("this is main5\n");
 	//pratice_5_1_main();
 	//pratice_5_2_main();
 	//pratice_5_3_main();
@@ -14,7 +14,7 @@ int main5() {
 	pratice_5_6_main();
 	//pratice_5_7_main();
 	//pratice_5_8_main();
-	pratice_5_9_main();
+	//pratice_5_9_main();
 	//example_5_1_main();
 	
 	return 0;

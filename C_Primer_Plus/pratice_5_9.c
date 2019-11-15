@@ -16,7 +16,7 @@ Temperatures()函数中用const创建温度转换中使用的变量。在main()函数
 读取q则不返回1。可以使用==运算符将scanf()的返回值和1作比较，测试两
 值是否相等。
 */
-void Temperatures(float fnum);
+void Temperatures(double fnum);
 int pratice_5_9_main() {
 	printf("* * * * * * * * * * * * * * * *\n");
 	printf("- - - - - - - - - - - - - - - -\n");
@@ -24,18 +24,23 @@ int pratice_5_9_main() {
 	printf("- - - - - - - - - - - - - - - -\n");
 	printf("* * * * * * * * * * * * * * * *\n");
 
-	//int num=0;
-	//
-	//while (num!='q') {
-	//	scanf("%d", num);
-	//}
+	double num=0;
+	printf("* * * * * * * * * * * * * * * *\n");
+
+	
+	while (scanf("%lf", &num)==1) {
+		Temperatures(num);
+		printf("* * * * * * * * * * * * * * * *\n");
+		/*int i=scanf("%lf", &num);
+		printf("scanf :%d\n",i);*/
+	}
 
 	/* * * * * * * * * 结论 * * * * * * * * *
 
 	* * * * * * * * * 结论 * * * * * * * * */
 	return 0;
 }
-void Temperatures(float fnum) {
-	printf("wendu1:%.2f wendu2:%.2f wendu3:%.2f", fnum,5.0/9.0*(fnum-32.0), 5.0 / 9.0*(fnum - 32.0)+273.16);
+void Temperatures(double fnum) {
+	printf("wendu1:%.2f wendu2:%.2f wendu3:%.2f\n", fnum,5.0/9.0*(fnum-32.0), 5.0 / 9.0*(fnum - 32.0)+273.16);
 
 }
