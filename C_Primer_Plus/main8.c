@@ -11,10 +11,10 @@ int main8() {
 	printf("this is main8\n");
 
 	//example_8_1_main();
-	example_8_2_main();
+	//example_8_2_main();
 	
 	//pratice_8_1_main();
-	//pratice_8_2_main();
+	pratice_8_2_main();
 	//pratice_8_3_main();
 	//pratice_8_4_main();
 	//pratice_8_5_main();
