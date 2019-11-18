@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <ctype.h>
 /*
-
+	1.编写一个程序读取输入，读到#字符停止，然后报告读取的空格数、
+	换行符数和所有其他字符的数量。
 */
 int pratice_7_1_main() {
 	printf("* * * * * * * * * * * * * * * *\n");
