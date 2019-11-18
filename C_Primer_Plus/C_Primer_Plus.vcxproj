@@ -137,6 +137,10 @@
     <ClCompile Include="example_5_1.c" />
     <ClCompile Include="example_7_1.c" />
     <ClCompile Include="example_7_2.c" />
+    <ClCompile Include="example_8_1.c" />
+    <ClCompile Include="example_8_2.c" />
+    <ClCompile Include="example_8_3.c" />
+    <ClCompile Include="example_8_4.c" />
     <ClCompile Include="example_simple.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="main2.c" />
@@ -145,6 +149,7 @@
     <ClCompile Include="main5.c" />
     <ClCompile Include="main6.c" />
     <ClCompile Include="main7.c" />
+    <ClCompile Include="main8.c" />
     <ClCompile Include="main_simple.c" />
     <ClCompile Include="pratice1.c" />
     <ClCompile Include="pratice_3-1-4.c" />
@@ -193,6 +198,10 @@
     <ClCompile Include="pratice_7_7.c" />
     <ClCompile Include="pratice_7_8.c" />
     <ClCompile Include="pratice_7_9.c" />
+    <ClCompile Include="pratice_8_1.c" />
+    <ClCompile Include="pratice_8_2.c" />
+    <ClCompile Include="pratice_8_3.c" />
+    <ClCompile Include="pratice_8_4.c" />
     <ClCompile Include="pratice_simple.c" />
     <ClCompile Include="util.c" />
   </ItemGroup>

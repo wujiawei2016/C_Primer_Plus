@@ -73,6 +73,15 @@
     <Filter Include="源文件\Chapter7\Pratice">
       <UniqueIdentifier>{51c0220e-52b9-45c0-832f-fc13f1a25179}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter8">
+      <UniqueIdentifier>{c4dbf6aa-97cc-42f9-9ab3-7081a3493c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter8\Example">
+      <UniqueIdentifier>{0831893c-7794-4f9e-91b3-91c44cf19bb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter8\Pratice">
+      <UniqueIdentifier>{34f1f72c-49e9-40a1-8eea-8298343704bc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main2.c">
@@ -287,6 +296,33 @@
     </ClCompile>
     <ClCompile Include="pratice_7_11.c">
       <Filter>源文件\Chapter7\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="example_8_1.c">
+      <Filter>源文件\Chapter8\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_8_2.c">
+      <Filter>源文件\Chapter8\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_8_3.c">
+      <Filter>源文件\Chapter8\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="example_8_4.c">
+      <Filter>源文件\Chapter8\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_8_1.c">
+      <Filter>源文件\Chapter8\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_8_2.c">
+      <Filter>源文件\Chapter8\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_8_3.c">
+      <Filter>源文件\Chapter8\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_8_4.c">
+      <Filter>源文件\Chapter8\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="main8.c">
+      <Filter>源文件\Chapter8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
