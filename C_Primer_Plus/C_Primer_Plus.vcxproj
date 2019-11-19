@@ -202,10 +202,14 @@
     <ClCompile Include="pratice_8_2.c" />
     <ClCompile Include="pratice_8_3.c" />
     <ClCompile Include="pratice_8_4.c" />
+    <ClCompile Include="pratice_8_5.c" />
     <ClCompile Include="pratice_simple.c" />
     <ClCompile Include="util.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="example.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="pratice.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>

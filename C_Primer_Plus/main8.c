@@ -14,10 +14,10 @@ int main8() {
 	//example_8_2_main();
 	
 	//pratice_8_1_main();
-	pratice_8_2_main();
+	//pratice_8_2_main();
 	//pratice_8_3_main();
 	//pratice_8_4_main();
-	//pratice_8_5_main();
+	pratice_8_5_main();
 	//pratice_8_6_main();
 	//pratice_8_8_main();
 	//pratice_8_8_main();
