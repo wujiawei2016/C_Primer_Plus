@@ -124,6 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="example_10_1.c" />
     <ClCompile Include="example_2-1.c" />
     <ClCompile Include="example_3_1.c" />
     <ClCompile Include="example_3_2.c" />
