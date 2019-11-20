@@ -82,6 +82,87 @@
     <Filter Include="源文件\Chapter8\Pratice">
       <UniqueIdentifier>{34f1f72c-49e9-40a1-8eea-8298343704bc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter9">
+      <UniqueIdentifier>{49798410-3457-49c0-a1f8-18de52bf6a8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter10">
+      <UniqueIdentifier>{8b21b10a-8fbc-475d-a76c-06010f468f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter11">
+      <UniqueIdentifier>{7f2741c6-872d-464b-826d-6972803c08af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter12">
+      <UniqueIdentifier>{9f8562a3-55d7-4f58-93f1-2868a44a0644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter13">
+      <UniqueIdentifier>{81d673fe-7e98-4b8c-8b29-b6b4b88cbd12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter14">
+      <UniqueIdentifier>{515254b4-d934-4692-a24a-c913c82b56dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter16">
+      <UniqueIdentifier>{8a3bc62a-b020-4c47-9195-5721e8a5ddc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter15">
+      <UniqueIdentifier>{35fa3c74-ed22-469e-8d28-6abe49113f79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter17">
+      <UniqueIdentifier>{f4436c8c-0a13-44a3-9109-6a38cf588521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter9\Example">
+      <UniqueIdentifier>{95c0e477-0e8a-427a-8ee5-b7311e09d1ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter10\Example">
+      <UniqueIdentifier>{e32f08a9-4998-45f3-b1d0-ae44ec4d6bd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter11\Example">
+      <UniqueIdentifier>{5dd39d82-b1bb-454e-84ef-8d79b49b761d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter12\Example">
+      <UniqueIdentifier>{f448c82d-f1b9-4619-904b-c48e7e7bca83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter13\Example">
+      <UniqueIdentifier>{8c96615b-ea9c-42cd-906d-5a0f38673a84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter14\Example">
+      <UniqueIdentifier>{c64f7302-b3b0-41f4-9fac-2f8f1469a3fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter15\Example">
+      <UniqueIdentifier>{8fb5d735-5221-477b-a0bd-fd60a931b1f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter16\Example">
+      <UniqueIdentifier>{1c0b2af4-0bcb-42ad-a345-c21fb9214be8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter17\Example">
+      <UniqueIdentifier>{c339ec89-c081-4260-8a61-c9f8da4069f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter17\Pratice">
+      <UniqueIdentifier>{b9a15791-cb4a-4699-8fc4-c5d4674e2963}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter16\Pratice">
+      <UniqueIdentifier>{2a1a98ec-e75a-4744-b138-52ebe05143e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter15\Pratice">
+      <UniqueIdentifier>{81a18728-0bda-4a9c-ad8c-d77381b55320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter14\Pratice">
+      <UniqueIdentifier>{38680276-0e7e-4c67-95e4-4ec786dcdedd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter13\Pratice">
+      <UniqueIdentifier>{03e5fe9b-4571-452b-ad7c-b5fa6856fa4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter12\Pratice">
+      <UniqueIdentifier>{43835fc3-a0b9-41ea-9cfe-0bb01317d81d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter11\Pratice">
+      <UniqueIdentifier>{d9596cdb-fbd5-4013-8990-cc830dd4b2b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter10\Pratice">
+      <UniqueIdentifier>{f30afcba-890c-4807-8f95-58abfa40aacf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter9\Pratice">
+      <UniqueIdentifier>{4751c125-0966-4803-a7c4-8066cb0e5c7e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main2.c">
@@ -326,6 +407,42 @@
     </ClCompile>
     <ClCompile Include="pratice_8_5.c">
       <Filter>源文件\Chapter8\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="main9.c">
+      <Filter>源文件\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="main10.c">
+      <Filter>源文件\Chapter10</Filter>
+    </ClCompile>
+    <ClCompile Include="main11.c">
+      <Filter>源文件\Chapter11</Filter>
+    </ClCompile>
+    <ClCompile Include="main12.c">
+      <Filter>源文件\Chapter12</Filter>
+    </ClCompile>
+    <ClCompile Include="main13.c">
+      <Filter>源文件\Chapter13</Filter>
+    </ClCompile>
+    <ClCompile Include="main14.c">
+      <Filter>源文件\Chapter14</Filter>
+    </ClCompile>
+    <ClCompile Include="main15.c">
+      <Filter>源文件\Chapter15</Filter>
+    </ClCompile>
+    <ClCompile Include="main16.c">
+      <Filter>源文件\Chapter16</Filter>
+    </ClCompile>
+    <ClCompile Include="main17.c">
+      <Filter>源文件\Chapter17</Filter>
+    </ClCompile>
+    <ClCompile Include="example_9_1.c">
+      <Filter>源文件\Chapter9\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_9_1.c">
+      <Filter>源文件\Chapter9\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_9_2.c">
+      <Filter>源文件\Chapter9\Pratice</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
