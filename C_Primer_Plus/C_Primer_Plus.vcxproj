@@ -127,6 +127,8 @@
     <ClCompile Include="example_10_1.c" />
     <ClCompile Include="example_10_2.c" />
     <ClCompile Include="example_10_3.c" />
+    <ClCompile Include="example_10_4.c" />
+    <ClCompile Include="example_10_5.c" />
     <ClCompile Include="example_2-1.c" />
     <ClCompile Include="example_3_1.c" />
     <ClCompile Include="example_3_2.c" />

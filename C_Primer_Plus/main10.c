@@ -12,7 +12,9 @@ int main10() {
 
 	//example_10_1_main();
 	//example_10_2_main();
-	example_10_3_main();
+	//example_10_3_main();
+	//example_10_4_main();
+	example_10_5_main();
 	
 	//pratice_10_1_main();
 	//pratice_10_2_main();
