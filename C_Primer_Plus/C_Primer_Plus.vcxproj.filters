@@ -471,6 +471,12 @@
     <ClCompile Include="example_11_2.c">
       <Filter>源文件\Chapter11\Example</Filter>
     </ClCompile>
+    <ClCompile Include="pratice_11_1.c">
+      <Filter>源文件\Chapter11\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_11_2.c">
+      <Filter>源文件\Chapter11\Pratice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
