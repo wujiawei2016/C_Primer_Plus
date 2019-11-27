@@ -130,6 +130,7 @@
     <ClCompile Include="example_10_4.c" />
     <ClCompile Include="example_10_5.c" />
     <ClCompile Include="example_11_1.c" />
+    <ClCompile Include="example_11_3.c" />
     <ClCompile Include="example_2-1.c" />
     <ClCompile Include="example_3_1.c" />
     <ClCompile Include="example_3_2.c" />
@@ -173,6 +174,7 @@
     <ClCompile Include="example_11_2.c" />
     <ClCompile Include="pratice_11_1.c" />
     <ClCompile Include="pratice_11_2.c" />
+    <ClCompile Include="pratice_11_3.c" />
     <ClCompile Include="pratice_3-1-4.c" />
     <ClCompile Include="pratice_3-1-1.c" />
     <ClCompile Include="pratice_3-1-2.c" />
