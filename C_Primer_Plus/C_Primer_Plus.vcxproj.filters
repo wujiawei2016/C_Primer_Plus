@@ -483,6 +483,18 @@
     <ClCompile Include="pratice_11_3.c">
       <Filter>源文件\Chapter11\Pratice</Filter>
     </ClCompile>
+    <ClCompile Include="pratice_11_4.c">
+      <Filter>源文件\Chapter11\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_11_5.c">
+      <Filter>源文件\Chapter11\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_11_6.c">
+      <Filter>源文件\Chapter11\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice_11_7.c">
+      <Filter>源文件\Chapter11\Pratice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
