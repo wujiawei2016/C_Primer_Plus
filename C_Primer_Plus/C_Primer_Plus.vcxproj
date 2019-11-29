@@ -179,6 +179,7 @@
     <ClCompile Include="pratice_11_4.c" />
     <ClCompile Include="pratice_11_6.c" />
     <ClCompile Include="pratice_11_7.c" />
+    <ClCompile Include="pratice_11_8.c" />
     <ClCompile Include="pratice_3-1-4.c" />
     <ClCompile Include="pratice_3-1-1.c" />
     <ClCompile Include="pratice_3-1-2.c" />

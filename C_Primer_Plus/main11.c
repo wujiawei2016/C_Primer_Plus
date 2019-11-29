@@ -20,8 +20,8 @@ int main11() {
 	//pratice_11_4_main();
 	//pratice_11_5_main();
 	//pratice_11_6_main();
-	pratice_11_11_main();
-	//pratice_11_11_main();
+	//pratice_11_7_main();
+	pratice_11_8_main();
 	//pratice_11_9_main();
 	//pratice_11_10_main();
 	//pratice_11_11_main();

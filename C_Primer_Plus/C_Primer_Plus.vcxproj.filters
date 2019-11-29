@@ -495,6 +495,9 @@
     <ClCompile Include="pratice_11_7.c">
       <Filter>源文件\Chapter11\Pratice</Filter>
     </ClCompile>
+    <ClCompile Include="pratice_11_8.c">
+      <Filter>源文件\Chapter11\Pratice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
