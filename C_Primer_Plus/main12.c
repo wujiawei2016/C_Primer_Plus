@@ -10,7 +10,7 @@
 int main12() {
 	printf("this is main12\n");
 
-	//example_12_1_main();
+	example_12_1_main();
 	//example_12_2_main();
 	
 	//pratice_12_1_main();

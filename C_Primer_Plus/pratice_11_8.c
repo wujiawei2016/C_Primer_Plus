@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#define SZIE 3
+#define SIZE 3
 /*
 11.编写一个函数，读入10个字符串或者读到EOF时停止。该程序为用
 户提供一个有5个选项的菜单：打印源字符串列表、以ASCII中的顺序打印字
@@ -33,10 +33,15 @@ int pratice_11_8_main() {
 	return 0;
 }
 char* getStringArrays() {
-	char arr[SZIE][1024] ;
-	for (int i = 0; i < SZIE; i++) {
+	char arr[SIZE][1024] ;
+	for (int i = 0; i < SIZE; i++) {
 		int s=scanf("%1024s", arr[i]);
+		printf("scanf %d\n",s);
+		if (s==EOF) {
+			break;
+		}
 	}
+
 		//fgets(arr[i], 1024, stdin);
 	return arr;
 }
@@ -72,6 +77,7 @@ void select(char *arr) {
 		break;
 	case '3':
 		printf("333333\n");
+		sortByLenAdd(arr);
 		break;
 	case '4':
 		printf("444444\n");
@@ -80,8 +86,10 @@ void select(char *arr) {
 		break;
 	}
 }
-char* sortByAscii(char(*arr)[10]) {}
-char* sortByLenAdd(char(*arr)[10]){}
-char* sortByAlphabetical(char(*arr)[10]){}
-void printCharArray(char(*arr)[10]){}
+char* sortByAscii(char(*arr)[SIZE]) {}
+char* sortByLenAdd(char(*arr)[SIZE]){
+//冒泡排序算法
+}
+char* sortByAlphabetical(char(*arr)[SIZE]){}
+void printCharArray(char(*arr)[SIZE]){}
 void exit(){}
